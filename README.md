@@ -2,7 +2,7 @@
 
 See the Issues page for more.
 
-Actually no, the Issues page is *everything* right now.  I have issues, see.
+Actually no, the [Issues page](/../../issues/) is *everything* right now.  I have issues, see.
 
 ---
 
